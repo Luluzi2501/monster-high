@@ -1,0 +1,30 @@
+body{
+    background-color: hotpink;
+    color:(srgb red green rgb(33, 33, 109));
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+    height: 700px;
+    margin: 0;
+}
+ button{
+    background-color: white;
+ }
+
+ .passo {
+    display: none;
+ }
+
+ .passo.ativo{
+    display: block;
+ }
+
+ main {
+    max-width: 90%;
+    text-align: center;
+
+ }
+
+ img{
+    max-width: 80%;
+ }
